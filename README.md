@@ -1,2 +1,3 @@
-# File-project
-Berisi project yang pernah dan sedang saya kerjakan
+# **File-Belajar**
+Berisi file-file belajar yang akan saya gunakan
+Baik studi didalam kampus maupun diluar kampus
